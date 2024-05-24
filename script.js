@@ -35,4 +35,3 @@ function showConfetti() {
       confetti.clear();
     }, 5000);
   }
-  
