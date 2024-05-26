@@ -8,7 +8,6 @@ function startQuestions() {
       document.getElementById("init").innerText = "YAY YAY 🎉🎉🎉";
     document.getElementById("message").style.display = "block";
     document.getElementById("messageText").innerText = "I believe in Love and Destiny too! How about we go out for a Coffee ☕ and Banoffee 🥧 to discuss if it's true?";
-    document.getElementById("message").style.display = "block";
     document.getElementById("messageText").innerText ="(p.s. i also know places with amazing Cranberry 🍒 cocktails)";
       showConfetti()
 }
